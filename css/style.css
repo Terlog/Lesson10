@@ -56,7 +56,7 @@ body {
     margin-top: 133px;
     margin-left: -35px;
     position: absolute;
-    content: url(/img/slider.svg);
+    content: url(../img/slider.svg);
 }
 .slider__title {
     color:  #E5E5E5;
