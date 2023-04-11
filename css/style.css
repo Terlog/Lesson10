@@ -14,17 +14,18 @@ body {
 /* .header {
 } */
 .header__container {
-    display: inline-block;
+    
 }
 .header__wrap{
+    display: inline-block;
 
 }
 .header__logo {
 }
-.header-navigation {
-    display: inline;
+.header__navigation {
+    display: inline-block;
 }
-.header-navigation__list {
+.header__list {
 }
 .nav {
 }
