@@ -16,14 +16,18 @@ body {
 .header__container {
     
 }
-.header__wrap{
+.header__wrap *{
     display: inline-block;
+vertical-align: middle;
 
+}
+.header__wrap {
+   
+padding: 37px 0;
 }
 .header__logo {
 }
-.header__navigation {
-    display: inline-block;
+.header__navigation {    
 }
 .header__list {
 }
